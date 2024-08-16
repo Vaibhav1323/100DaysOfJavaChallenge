@@ -1,0 +1,39 @@
+Day 1: Java Data Types and Variables
+
+"Hello everyone! I'm excited to start my 100-days Java challenge, and I'm looking forward to sharing my journey with you all.
+
+Today, I'm diving into the basics of Java programming: data types and variables.
+Java Data Types:
+In Java, there are two main categories of data types: primitive types and reference types.
+Primitive types include:
+* Integers (int)
+* Floating-point numbers (float, double)
+* Characters (char)
+* Boolean values (boolean)
+* Byte (byte)
+* Short (short)
+* Long (long)
+
+Reference types include:
+* Strings (String)
+* Arrays (e.g., int[], String[])
+* Classes and objects (e.g., Person, Car)
+
+Java Variables:
+In Java, a variable is a named storage location that holds a value. Variables have a specific data type, and they can be declared using the = operator.
+
+Example:
+int x = 10; // declare an integer variable x with value 10
+String name = "John"; // declare a string variable name with value "John"
+
+Key Takeaways:
+Java has a range of primitive and reference data types to work with.
+Variables are declared using the = operator and have a specific data type.
+Understanding data types and variables is essential for writing effective Java code.
+
+Next Steps:
+Tomorrow, I'll be exploring more advanced topics in Java, including operators and control structures. Stay tuned!
+
+Your Turn:
+What's your favorite Java data type or variable trick? Share your thoughts in the comments below!
+#Java #DataTypes #Variables #100DayChallenge" #corejava #dayseries
